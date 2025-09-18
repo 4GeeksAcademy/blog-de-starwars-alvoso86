@@ -1,3 +1,4 @@
+
 // Import necessary hooks and components from react-router-dom and other libraries.
 import { Link, useParams } from "react-router-dom";  // To use link for navigation and useParams to get URL parameters
 import PropTypes from "prop-types";  // To define prop types for this component
